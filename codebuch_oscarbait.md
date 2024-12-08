@@ -23,7 +23,7 @@ historische Themen und Ereignisse, beinhaltet einen Krieg, erzählt eine biograf
 die Handlung bestenfalls auch noch auf wahren Ereignissen basieren. Oftmals handelt es sich bei der 
 Geschichte auch um Filmadaptionen eines Buches oder einer anderen schriftlichen Vorlage.\
 Bei dieser Datenerhebung wurden alle Oscarnominierten und -ausgezeichneten Filme in der Kategorie "Best Picture"
-von 1990 bis 2024 auf diese Eigenschaften untersucht. Anhand dieser Erhebung soll untersucht werden, ob
+von 1990 bis 2024 (63.-96. Oscarverleihung) auf diese Eigenschaften untersucht. Anhand dieser Erhebung soll untersucht werden, ob
 das Klischee des "Oscar Baits" von den nominierten und gewinnenden Filmen erfüllt wird.
 
 ## Attribute

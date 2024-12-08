@@ -27,7 +27,7 @@ King Richard,94rd,November,145,Drama,2,2,1,1,2,2,2
 Dune,94rd,Oktober,155,Science Fiction,2,1,2,2,1,2,2
 Drive My Car,94rd,August,179,Drama,2,2,2,2,1,1,2
 Dont Look Up,94rd,Dezember,138,Dunkle Komödie,2,2,2,2,2,0,2
-Belfast,94rd,Januar AW,97,Coming-of-Age,1,2,2,2,2,1,2
+Belfast,94rd,Januar AS,97,Coming-of-Age,1,2,2,2,2,1,2
 CODA,94rd,August,111,Coming-of-Age,2,2,2,2,2,0,1
 The Trial of the Chicago 7,93rd,September,130,Drama,1,2,1,2,2,2,2
 Sound of Metal,93rd,November,120,Drama,2,2,2,2,2,0,2
@@ -36,7 +36,7 @@ Minari,93rd,Dezember,115,Drama,1,2,1,2,2,2,2
 Mank,93rd,November,131,Drama,1,2,1,1,2,3,2
 Judas and the black Massiah,93rd,Februar,126,Drama,1,2,1,1,2,3,2
 The Father,93rd,Juni,97,Drama,2,2,2,2,2,0,2
-Nomadland,93rd,Februar AW,108,Drama,2,2,1,2,1,2,1
+Nomadland,93rd,Februar AS,108,Drama,2,2,1,2,1,2,1
 Once Upon a Time in Hollywood,92rd,Juli,161,Drama,1,2,1,2,2,2,2
 1917,92rd,Dezember,119,Epos,1,1,1,2,2,3,2
 Marriage Story,92rd,November,137,Drama,2,2,2,2,2,0,2
@@ -64,16 +64,16 @@ Darkest Hour,90rd,November,125,Drama,1,1,1,1,2,4,2
 Call Me by Your Name,90rd,November,132,Coming-of-Age,2,2,2,2,1,1,2
 The Shape of Water,90rd,Dezember,123,Fantasy,1,2,2,2,2,1,1
 Manchester by the Sea,89rd,Dezember,137,Drama,2,2,2,2,2,0,2
-Lion,89rd,Januar AW,118,Coming-of-Age,2,2,1,2,1,2,2
+Lion,89rd,Januar AS,118,Coming-of-Age,2,2,1,2,1,2,2
 La La Land,89rd,Dezember,128,Musical,2,2,2,2,2,0,2
-Hidden Figures,89rd,Januar AW,127,Drama,1,2,1,1,1,4,2
+Hidden Figures,89rd,Januar AS,127,Drama,1,2,1,1,1,4,2
 Hell or High Water,89rd,August,102,Neo-Western,2,2,2,2,2,0,2
 Hacksaw Ridge,89rd,November,139,Epos,1,1,1,1,2,4,2
 Fences,89rd,Dezember,138,Drama,1,2,2,2,1,2,2
 Arrival,89rd,November,116,Science Fiction,2,1,2,2,1,2,2
 Moonight,89rd,Oktober,111,Coming-of-Age,2,2,1,1,1,3,1
 Room,88rd,Oktober,118,Drama,2,2,2,2,1,1,2
-The Revenant,88rd,Januar AW,156,Drama,1,2,1,2,1,3,2
+The Revenant,88rd,Januar AS,156,Drama,1,2,1,2,1,3,2
 The Martian,88rd,Oktober,142,Science Fiction,2,2,2,2,1,1,2
 Mad Max: Fury Road,88rd,Mai,120,Action,2,2,2,2,2,0,2
 Brooklyn,88rd,November,112,Drama,1,2,2,2,1,2,2
@@ -97,7 +97,7 @@ Dallas Buyers Club,86rd,November,117,Drama,2,2,1,1,2,2,2
 Captain Philips,86rd,Oktober,134,Action,2,2,1,1,1,3,2
 American Hustle,86rd,Dezember,138,Drama,2,2,1,2,2,1,2
 12 Years a Slave,86rd,November,134,Drama,1,2,1,1,1,4,1
-Zero Dark Thirty,85rd,Januar AW,157,Thriller,1,1,1,2,2,3,2
+Zero Dark Thirty,85rd,Januar AS,157,Thriller,1,1,1,2,2,3,2
 Silver Linings Playbook,85rd,November,122,Romantische Komödie,2,2,2,2,1,1,2
 Les Misérables,85rd,Dezember,158,Musical,1,2,2,2,1,2,2
 Lincoln,85rd,November,150,Drama,1,2,1,1,1,4,2
@@ -130,7 +130,7 @@ Up,82rd,Mai,96,Komödie,2,2,2,2,2,0,2
 A Serious Man,82rd,Oktober,106,Dunkle Komödie,1,2,2,2,2,1,2
 Precious,82rd,November,110,Coming-of-Age,2,2,2,2,1,1,2
 Inglouris Basterds,82rd,August,153,Dunkle Komödie,1,1,1,2,2,3,2
-An Education,82rd,Februar AW,100,Coming-of-Age,1,2,1,1,1,4,2
+An Education,82rd,Februar AS,100,Coming-of-Age,1,2,1,1,1,4,2
 District 9,82rd,August,112,Science Fiction,2,2,2,2,2,0,2
 The Blind Side,82rd,November,126,Drama,2,2,2,2,1,1,2
 Avatar,82rd,Dezember,162,Science Fiction,2,1,2,2,2,1,2
@@ -139,7 +139,7 @@ The Reader,81rd,Dezember,124,Drama,1,2,2,2,1,2,2
 Milk,81rd,November,128,Drama,1,2,1,1,2,3,2
 Frost/Nixon,81rd,Dezember,122,Drama,1,2,1,1,1,4,2
 The Courious Case of Benjamin Button,81rd,Dezember,166,Drama,1,2,2,2,1,2,2
-Slumdog Millionaire,81rd,Januar AW,120,Drama,2,2,2,2,1,1,1
+Slumdog Millionaire,81rd,Januar AS,120,Drama,2,2,2,2,1,1,1
 There Will Be Blood,80rd,Dezember,158,Drama,1,2,2,2,1,2,2
 Michael Clayton,80rd,Oktober,120,Thriller,2,2,2,2,2,0,2
 Juno,80rd,Dezember,96,Komödie,2,2,2,2,2,0,2
@@ -173,7 +173,7 @@ Chicago,75rd,Dezember,113,Muscial,1,2,2,2,1,2,1
 Moulin Rouge!,74rd,Juni,128,Musical,1,2,2,2,2,1,2
 The Lord of the Rings: The Fellowship of the Ring,74rd,Dezember,178,Fantasy,2,2,2,2,1,1,2
 In the Bedroom,74rd,November,131,Drama,2,2,2,2,1,1,2
-Gosford Park,74rd,Januar AW,137,Dunkle Komödie,1,2,2,2,2,1,2
+Gosford Park,74rd,Januar AS,137,Dunkle Komödie,1,2,2,2,2,1,2
 A Beautiful Mind,74rd,Dezember,135,Drama,1,2,1,1,1,4,1
 Traffic,73rd,Dezember,147,Drama,2,2,2,2,2,0,2
 Erin Brockovich,73rd,März,130,Drama,2,2,1,1,2,2,2
@@ -211,7 +211,7 @@ Pulp Fiction,67rd,Oktober,154,Dunkle Komödie,2,2,2,2,2,0,2
 Four Weddings and a Funeral,67rd,März,117,Romantische Komödie,2,2,2,2,2,0,2
 Forrest Gump,67rd,Juli,142,Komödie,1,1,2,2,2,2,1
 The Remains of the Day,66rd,November,134,Drama,1,2,2,2,1,2,2
-The Piano,66rd,Februar AW,117,Drama,1,2,2,2,1,2,2
+The Piano,66rd,Februar AS,117,Drama,1,2,2,2,1,2,2
 In the Name of the Father,66rd,Dezember,133,Drama,1,2,1,1,1,4,2
 The Fugitive,66rd,August,130,Thriller,2,2,2,2,2,0,2
 Schindler´s List,66rd,Dezember,195,Drama,1,1,1,1,1,5,1

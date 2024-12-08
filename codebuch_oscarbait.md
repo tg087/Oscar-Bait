@@ -16,12 +16,12 @@ knitr::opts_chunk$set(echo = TRUE)
 Der Begriff "Oscar Bait" wurde in Filmkreisen vermutlich schon seit Anfang der 1940er Jahre genutzt.
 Die erste öffentliche Erwähnung lässt sich auf das Jahr 1948 zurückführen. In diesem Jahr nutzte das
 Magazin "The New Republic" den Begriff in einer Kritik des Filmes "Fort Apache". Regisseur John Ford
-wurde vorgeworfen, der Film sei gezielt auf die Vorlieben der Oscar Jury abgestimmt.
+wurde vorgeworfen, der Film sei gezielt auf die Vorlieben der Oscar Jury abgestimmt.\
 Unter "Oscar Bait" versteht man also eine spezielle Art von Filmen, die mit der Intension produziert werden,
 Auszeichnungen bei den Academy Awards zu erhalten. Der Stereotypische "Oscar Bait" behandelt dabei
 historische Themen und Ereignisse, beinhaltet einen Krieg, erzählt eine biografische Geschichte während
 die Handlung bestenfalls auch noch auf wahren Ereignissen basieren. Oftmals handelt es sich bei der 
-Geschichte auch um Filmadaptionen eines Buches oder einer anderen schriftlichen Vorlage.
+Geschichte auch um Filmadaptionen eines Buches oder einer anderen schriftlichen Vorlage.\
 Bei dieser Datenerhebung wurden alle Oscarnominierten und -ausgezeichneten Filme in der Kategorie "Best Picture"
 von 1990 bis 2024 auf diese Eigenschaften untersucht. Anhand dieser Erhebung soll untersucht werden, ob
 das Klischee des "Oscar Baits" von den nominierten und gewinnenden Filmen erfüllt wird.

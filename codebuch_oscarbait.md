@@ -69,3 +69,6 @@ Der Wert ergibt sich aus der Summe der vorangegangenen Kategorien, welche mit 1,
 
 **winner**\
 Hat der Film den Oscar in der Kategorie "Best Picture" gewonnen?
+
+1 = Ja\
+2 = Nein

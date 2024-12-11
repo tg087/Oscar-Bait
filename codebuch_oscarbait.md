@@ -5,10 +5,6 @@ date: "2024-06-25"
 output: github_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 # Codebuch Datenerhebung *Oscar Bait*
 
 ## Hintergrund zur Datenerhebung
@@ -20,8 +16,7 @@ wurde vorgeworfen, der Film sei gezielt auf die Vorlieben der Oscar Jury abgesti
 Unter "Oscar Bait" versteht man also eine spezielle Art von Filmen, die mit der Intension produziert werden,
 Auszeichnungen bei den Academy Awards zu erhalten. Der Stereotypische "Oscar Bait" behandelt dabei
 historische Themen und Ereignisse, beinhaltet einen Krieg, erzählt eine biografische Geschichte während
-die Handlung bestenfalls auch noch auf wahren Ereignissen basieren. Oftmals handelt es sich bei der 
-Geschichte auch um Filmadaptionen eines Buches oder einer anderen schriftlichen Vorlage.\
+die Handlung bestenfalls auch noch auf wahren Ereignissen basieren.\
 Bei dieser Datenerhebung wurden alle Oscarnominierten und -ausgezeichneten Filme in der Kategorie "Best Picture"
 von 1990 bis 2024 (63.-96. Oscarverleihung) auf diese Eigenschaften untersucht. Anhand dieser Erhebung soll untersucht werden, ob
 das Klischee des "Oscar Baits" von den nominierten und gewinnenden Filmen erfüllt wird.
@@ -64,12 +59,6 @@ Basiert die Handlung auf wahren Begebenheiten?
 
 **biographical**\
 Handelt es sich um eine biografische Erzählung?
-
-1 = Ja\
-2 = Nein
-
-**book**\
-Basiert der Film auf einem Buch bzw. einer geschriebenen Vorlage (Kurzgeschichte, Roman, Theaterstück)?
 
 1 = Ja\
 2 = Nein

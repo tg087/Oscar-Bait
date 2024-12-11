@@ -18,7 +18,7 @@ Auszeichnungen bei den Academy Awards zu erhalten. Der Stereotypische "Oscar Bai
 historische Themen und Ereignisse, beinhaltet einen Krieg, erzählt eine biografische Geschichte während
 die Handlung bestenfalls auch noch auf wahren Ereignissen basieren.\
 Bei dieser Datenerhebung wurden alle Oscarnominierten und -ausgezeichneten Filme in der Kategorie "Best Picture"
-von 1990 bis 2024 (63.-96. Oscarverleihung) auf diese Eigenschaften untersucht. Die Daten Stammen aus den offiziellen [Listen](https://www.oscars.org/oscars) der Academy of Motion Picture Arts and Sciences, sowie der Filmdatenbank [IMDb](https://www.imdb.com/).
+von 1990 bis 2024 (63.-96. Oscarverleihung) auf diese Eigenschaften untersucht. Die Daten stammen aus den offiziellen [Listen](https://www.oscars.org/oscars) der Academy of Motion Picture Arts and Sciences, sowie der Filmdatenbank [IMDb](https://www.imdb.com/).
 Anhand dieser Erhebung soll untersucht werden, ob
 das Klischee des "Oscar Baits" von den nominierten und gewinnenden Filmen erfüllt wird.
 
